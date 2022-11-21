@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="background">resource/background.png</file>
+        <file alias="black">resource/gold.png</file>
+        <file alias="queen">resource/queen.png</file>
+        <file alias="brown-dark">resource/brown-light.png</file>
+        <file alias="brown-light">resource/brown-dark.png</file>
+    </qresource>
+</RCC>

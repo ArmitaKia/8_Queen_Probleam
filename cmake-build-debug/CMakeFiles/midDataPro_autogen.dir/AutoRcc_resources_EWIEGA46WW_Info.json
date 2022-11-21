@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "D:/CppCode/midDataPro/cmake-build-debug/midDataPro_autogen",
+	"CMAKE_BINARY_DIR" : "D:/CppCode/midDataPro/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/CppCode/midDataPro/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/CppCode/midDataPro",
+	"CMAKE_SOURCE_DIR" : "D:/CppCode/midDataPro",
+	"INCLUDE_DIR" : "D:/CppCode/midDataPro/cmake-build-debug/midDataPro_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/CppCode/midDataPro/resource/brown-light.png",
+		"D:/CppCode/midDataPro/resource/brown-dark.png",
+		"D:/CppCode/midDataPro/resource/gold.png",
+		"D:/CppCode/midDataPro/resource/background.png",
+		"D:/CppCode/midDataPro/resource/queen.png"
+	],
+	"LOCK_FILE" : "D:/CppCode/midDataPro/cmake-build-debug/CMakeFiles/midDataPro_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.2.4/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/CppCode/midDataPro/cmake-build-debug/CMakeFiles/midDataPro_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/CppCode/midDataPro/resources.qrc",
+	"VERBOSITY" : 0
+}
