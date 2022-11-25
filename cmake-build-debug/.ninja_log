@@ -1,0 +1,16 @@
+# ninja log v5
+2	682	6910675762665684	midDataPro_autogen/timestamp	6e8aa5c24cb68e53
+2	682	6910675762665684	midDataPro_autogen/mocs_compilation.cpp	6e8aa5c24cb68e53
+2	682	6910675762665684	C:/Users/RayaneGostar/Desktop/midd/cmake-build-debug/midDataPro_autogen/timestamp	6e8aa5c24cb68e53
+2	682	6910675762665684	C:/Users/RayaneGostar/Desktop/midd/cmake-build-debug/midDataPro_autogen/mocs_compilation.cpp	6e8aa5c24cb68e53
+682	745	6910675764436832	midDataPro_autogen/EWIEGA46WW/qrc_resources.cpp	34a6fcadf8c2aacb
+682	745	6910675764436832	C:/Users/RayaneGostar/Desktop/midd/cmake-build-debug/midDataPro_autogen/EWIEGA46WW/qrc_resources.cpp	34a6fcadf8c2aacb
+747	4448	6910675800523869	CMakeFiles/midDataPro.dir/main.cpp.obj	82038448c1df4437
+751	4454	6910675800535731	CMakeFiles/midDataPro.dir/src/Button.cpp.obj	461a898ef7757101
+753	4457	6910675800697397	CMakeFiles/midDataPro.dir/src/Block.cpp.obj	c64cd8d6afb59b39
+749	4457	6910675800577350	CMakeFiles/midDataPro.dir/src/MainWindow.cpp.obj	6e62f9d33243365
+746	4458	6910675800535731	CMakeFiles/midDataPro.dir/midDataPro_autogen/mocs_compilation.cpp.obj	308b2710385085e
+752	4459	6910675800657343	CMakeFiles/midDataPro.dir/src/QueensWindow.cpp.obj	10381311f1bb5388
+4454	5517	6910675812188432	CMakeFiles/midDataPro.dir/midDataPro_autogen/EWIEGA46WW/qrc_resources.cpp.obj	8b25bbfd688893ef
+4451	6019	6910675817201336	CMakeFiles/midDataPro.dir/src/Queen.cpp.obj	d5f1bd0137a1d556
+6019	7201	6910675824676412	midDataPro.exe	42c3ac0427f73dbd
