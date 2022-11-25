@@ -103,7 +103,8 @@ QueensWindow::QueensWindow() {
     connect(previousPosition,&Button::onPress,this,&QueensWindow::onPre);
 
     //solve the main probleam
-    solveQueenProblem(a,0);
+    int array[8] = {0,0,0,0,0,0,0,0};
+    solveQueenProblem(array,0);
 }
 
 void QueensWindow::onNext() {
@@ -145,7 +146,7 @@ void QueensWindow::solveQueenProblem(int loc[],int num){
             int j=0;
             for(;j<num;j++)
                 if(i==loc[j] || i==loc[j]-(num-j) || i== loc[j]+(num-j))
-            isFound = false;
+                    isFound = false;
             if(isFound){
                 loc[num] = i;
                 solveQueenProblem(loc,num+1);

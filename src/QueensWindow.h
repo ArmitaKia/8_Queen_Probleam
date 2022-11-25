@@ -13,7 +13,6 @@
 
 class QueensWindow : public QGraphicsView{
 private:
-    int a[8] {0};
     int blockWidth;
     int blockHeight;
     int addXPosition;
